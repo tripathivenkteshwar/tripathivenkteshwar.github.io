@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tripathivenkteshwar.github.io/sitemap.xml
