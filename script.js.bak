@@ -63,7 +63,7 @@ function initParticles() {
 function initTyping() {
   const el = document.querySelector('.typing-text');
   if (!el) return;
-  const titles = ['Senior Software Engineer (SDE II)', 'Java Backend Developer', 'Software Development Engineer 2', 'Microservices Expert'];
+  const titles = ['Senior Software Engineer', 'Backend Architect', 'Cloud & Microservices Engineer', 'System Design Expert'];
   let titleIndex = 0, charIndex = 0, isDeleting = false;
   function type() {
     const current = titles[titleIndex];
@@ -154,5 +154,5 @@ document.addEventListener('DOMContentLoaded', () => {
   initScrollReveal();
   initSkillBars();
   animateCounters();
-  // initContactForm();
+  initContactForm();
 });

@@ -3,14 +3,14 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Venkteshwar Tripathi | Senior Software Engineer (SDE II) | Java & AWS</title>
-<meta name="description" content="Venkteshwar Tripathi — Senior Software Engineer (SDE II) / Software Development Engineer 2. Expert in Java, Spring Boot, AWS, Kafka. Open to senior backend engineering roles globally.">
-<meta name="keywords" content="Venkteshwar Tripathi, Senior Software Engineer, SDE, SDE2, SDE 2, Software Development Engineer 2, Senior Software Development Engineer, Backend Developer, Java Developer, Spring Boot, AWS, Microservices">
+<title>Venkteshwar Tripathi | Senior Software Engineer | Backend Developer</title>
+<meta name="description" content="Venkteshwar Tripathi — Software Engineer at DAZN. Expert in Java, Spring Boot, AWS, Microservices. Building scalable backend systems. Open to opportunities in USA, UK, Europe, Singapore, and UAE.">
+<meta name="keywords" content="Venkteshwar Tripathi, Senior Software Engineer, Backend Developer, Java Developer, Spring Boot, AWS, Microservices, DAZN, Traveloka, Paysafe">
 <meta name="author" content="Venkteshwar Tripathi">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://tripathivenkteshwar.github.io">
-<meta property="og:title" content="Venkteshwar Tripathi | Senior Software Engineer (SDE II)">
-<meta property="og:description" content="Senior Software Engineer (SDE II) building scalable backend systems. Java, Spring Boot, AWS, Microservices.">
+<meta property="og:title" content="Venkteshwar Tripathi | Software Engineer">
+<meta property="og:description" content="Software Engineer at DAZN building scalable backend systems. Java, Spring Boot, AWS, Microservices.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://tripathivenkteshwar.github.io">
 <meta name="twitter:card" content="summary_large_image">
@@ -22,45 +22,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 <link rel="stylesheet" href="styles.css">
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "ProfilePage",
-      "@id": "https://tripathivenkteshwar.github.io/#webpage",
-      "url": "https://tripathivenkteshwar.github.io",
-      "name": "Venkteshwar Tripathi | Senior Software Engineer (SDE II)",
-      "isPartOf": {
-        "@id": "https://tripathivenkteshwar.github.io/#website"
-      },
-      "about": {
-        "@id": "https://tripathivenkteshwar.github.io/#person"
-      }
-    },
-    {
-      "@type": "Person",
-      "@id": "https://tripathivenkteshwar.github.io/#person",
-      "name": "Venkteshwar Tripathi",
-      "jobTitle": "Senior Software Engineer (SDE II)",
-      "url": "https://tripathivenkteshwar.github.io",
-      "sameAs": [
-        "https://www.linkedin.com/in/venkteshwar-tripathi/",
-        "https://github.com/tripathivenkteshwar"
-      ],
-      "worksFor": {
-        "@type": "Organization",
-        "name": "DAZN"
-      },
-      "alumniOf": {
-        "@type": "CollegeOrUniversity",
-        "name": "Bachelor of Technology in Computer Science and Engineering"
-      },
-      "knowsAbout": [
-        "Java", "Spring Boot", "AWS", "Microservices", "Kafka", "System Design", "Backend Development"
-      ]
-    }
-  ]
-}
+{"@context":"https://schema.org","@type":"Person","name":"Venkteshwar Tripathi","jobTitle":"Software Engineer","worksFor":{"@type":"Organization","name":"DAZN"},"alumniOf":{"@type":"CollegeOrUniversity","name":"Bachelor of Technology in Computer Science and Engineering"},"knowsAbout":["Java","Spring Boot","AWS","Microservices","Kafka","RabbitMQ","System Design"],"sameAs":["https://www.linkedin.com/in/venkteshwar-tripathi/","https://github.com/tripathivenkteshwar"],"url":"https://tripathivenkteshwar.github.io","address":{"@type":"PostalAddress","addressCountry":"IN"}}
 </script>
 </head>
 <body>
@@ -87,7 +49,7 @@
 <div class="hero-gradient-orb orb2"></div>
 <div class="hero-gradient-orb orb3"></div>
 <div class="hero-content">
-<div class="hero-badge"><span class="pulse"></span> Open to Senior SDE / SDE2 Roles</div>
+<div class="hero-badge"><span class="pulse"></span> Open to Opportunities</div>
 <h1 class="hero-name">Venkteshwar Tripathi</h1>
 <div class="hero-typing-wrapper"><span class="typing-text"></span><span class="typing-cursor">|</span></div>
 <p class="hero-tagline">Building scalable backend systems and high-concurrency architecture. Currently engineering media pipelines at DAZN, previously at Traveloka &amp; Paysafe.</p>
